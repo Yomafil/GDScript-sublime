@@ -1,6 +1,8 @@
 GDScript support for Sublime Text
 =================================
 
+**This repository is no longer maintained and is archived**
+
 Installation
 ------------
 
